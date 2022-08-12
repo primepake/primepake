@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to Prime Pake's profile👋
 
 <!--
 **primepake/primepake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&pause=1000&color=3C65FFC6&width=435&lines=Hello%2C+I'm+a+Machine+Learning+Engineer;Currently%2C+Working+on+media+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&pause=1000&color=3C65FFC6&multiline=true&width=435&lines=Hello%2C+I'm+a+Machine+Learning+Engineer;Currently%2C+Working+on+media+production)](https://git.io/typing-svg)
